@@ -22,3 +22,7 @@ To answer these questions I have utilized many different Pandas & Matplotlib Met
 - Using groupby to perform aggregate analysis
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling the graphs
+# Results
+The analysis of the business questions related to the sales data is as follows 
+![best month for sales](https://github.com/user-attachments/assets/9ca1e21a-7f38-45e6-a9af-3a2492650ac0)
+
