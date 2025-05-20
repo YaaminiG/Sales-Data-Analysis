@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\yamin\\source\\repos\\YaaminiG\\Sales-Data-Analysis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yamin\\source\\repos\\YaaminiG\\Sales-Data-Analysis\\SalesAnalysis.ipynb||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SalesAnalysis.ipynb||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yamin\\source\\repos\\YaaminiG\\Sales-Data-Analysis\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yamin\\source\\repos\\YaaminiG\\Sales-Data-Analysis\\Misc\\create_data.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Misc\\create_data.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yamin\\source\\repos\\YaaminiG\\Sales-Data-Analysis\\SalesAnalysis.ipynb||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SalesAnalysis.ipynb||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\yamin\\source\\repos\\YaaminiG\\Sales-Data-Analysis\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\yamin\\source\\repos\\YaaminiG\\Sales-Data-Analysis\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAADUAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-20T20:30:46.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "create_data.py",
               "DocumentMoniker": "C:\\Users\\yamin\\source\\repos\\YaaminiG\\Sales-Data-Analysis\\Misc\\create_data.py",
               "RelativeDocumentMoniker": "Misc\\create_data.py",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SalesAnalysis.ipynb",
               "DocumentMoniker": "C:\\Users\\yamin\\source\\repos\\YaaminiG\\Sales-Data-Analysis\\SalesAnalysis.ipynb",
               "RelativeDocumentMoniker": "SalesAnalysis.ipynb",
               "ToolTip": "C:\\Users\\yamin\\source\\repos\\YaaminiG\\Sales-Data-Analysis\\SalesAnalysis.ipynb",
               "RelativeToolTip": "SalesAnalysis.ipynb",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAANkCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-20T20:29:24.86Z",
               "EditorCaption": ""
