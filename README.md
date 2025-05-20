@@ -1,5 +1,7 @@
 # Sales-Data-Analysis
 ## Overview
+
+my overview   
 In this project I use **Python Pandas** and  **Matplotlib** to analyse and answer bussiness questions about 12 months worth of Sales Data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
 I started out by cleaning the Data, Tasks include:
@@ -48,4 +50,6 @@ The analysis of the business questions related to the sales data is as follows
 
 
 
+
+yamini
 
